@@ -1,0 +1,15 @@
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.exe
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.deps.json
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.runtimeconfig.json
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.runtimeconfig.dev.json
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.dll
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.pdb
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.AssemblyInfoInputs.cache
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.AssemblyInfo.cs
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csproj.CoreCompileInputs.cache
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csproj.CopyComplete
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.dll
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.pdb
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.genruntimeconfig.cache

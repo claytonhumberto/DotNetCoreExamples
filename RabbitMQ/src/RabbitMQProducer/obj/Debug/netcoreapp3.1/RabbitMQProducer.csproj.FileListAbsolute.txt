@@ -1,0 +1,17 @@
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.exe
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.deps.json
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.runtimeconfig.json
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.runtimeconfig.dev.json
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.dll
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.pdb
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.csproj.AssemblyReference.cache
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.AssemblyInfoInputs.cache
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.AssemblyInfo.cs
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.csproj.CoreCompileInputs.cache
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.csproj.CopyComplete
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.dll
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.pdb
+D:\Cursos\GitClayton\DotNetCoreExamples\RabbitMQ\src\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.genruntimeconfig.cache

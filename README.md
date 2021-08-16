@@ -1,0 +1,2 @@
+# DotNetCoreExamples
+Exemplos DotNetCore
